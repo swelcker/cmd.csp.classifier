@@ -13,7 +13,7 @@
         <repository>
             <id>github</id>
             <name>GitHub swelcker Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/swelcker/cspclassifier</url>
+            <url>https://maven.pkg.github.com/swelcker/cmd.csp.classifier</url>
         </repository>
     </distributionManagement>
 
