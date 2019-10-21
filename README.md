@@ -1,5 +1,5 @@
 ![csplogo](https://user-images.githubusercontent.com/12301571/67168219-4d618900-f3a2-11e9-9460-b79eff997c35.PNG)
-# cspclassifier
+# cmd.csp.classifier
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/swelcker/cmd.csp.classifier/graphs/commit-activity)
 [![GitHub release](https://img.shields.io/github/release/swelcker/cmd.csp.classifier.svg)](https://GitHub.com/swelcker/cmd.csp.classifier/releases/)
